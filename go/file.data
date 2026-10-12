@@ -1,0 +1,5 @@
+M myarr 1 2 3 4
+S mystack 10 20
+Q myqueue 40
+F mylist 5 2
+L mydlist 5 2
